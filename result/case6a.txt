@@ -1,0 +1,37 @@
+# Current work path is /home/xhhu/tmp/web/public/work
+# Action is data_sizes with parameter gPAR_0_All
+All	There are 944 binding regions from 665 genes.
+Nucle	A	C	G	U
+Whole	0.313	0.1956	0.1924	0.299	
+Region	0.3277	0.1535	0.0455	0.4733	
+Coef: -0.042, Pearson: -0.041
+Whole RNA is 0.299 + 1.513
+Binding Region is 0.053 + 0.382
+944	944	944	350	108	
+5UTR	There are 86 binding regions from 73 genes.
+Nucle	A	C	G	U
+Whole	0.3154	0.194	0.1847	0.3059	
+Region	0.302	0.1679	0.047	0.4831	
+Coef: -0.082, Pearson: -0.079
+Whole RNA is 0.299 + 1.513
+Binding Region is 0.132 + 0.312
+86	86	86	20	4	
+CDS	There are 116 binding regions from 96 genes.
+Nucle	A	C	G	U
+Whole	0.3102	0.1953	0.1873	0.3072	
+Region	0.3319	0.1938	0.0498	0.4245	
+Coef: 0.152, Pearson: 0.052
+Whole RNA is 0.299 + 1.513
+Binding Region is 0.192 + 0.428
+116	116	116	15	0	
+3UTR	There are 741 binding regions from 573 genes.
+Nucle	A	C	G	U
+Whole	0.3133	0.1958	0.1942	0.2966	
+Region	0.3298	0.1457	0.0447	0.4799	
+Coef: -0.015, Pearson: 0.029
+Whole RNA is 0.299 + 1.513
+Binding Region is 0.022 + 0.376
+741	741	741	315	104	
+# Start  at: Tue Nov 12 23:01:34 2013
+# Finish at: Tue Nov 12 23:06:22 2013
+# Total Time: 001 day 00:04:48
